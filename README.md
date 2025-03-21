@@ -32,6 +32,6 @@ CSS: For styling and animations.
 Netlify: For hosting and deployment.
 
 
-#AI USED FOR BUG AND ERROR CORRECTION
+# AI USED FOR BUG AND ERROR CORRECTION
 
 **Deepseek**
